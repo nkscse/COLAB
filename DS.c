@@ -4,3 +4,22 @@ void main()
 {
   printf("HELLO WORLD\n");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void disp()
+{
+  printf("Display\n");  
+}
