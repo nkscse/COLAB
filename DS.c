@@ -8,7 +8,11 @@ void sort()
 {
   a[i]=a[j];
 }
-
+void collision()
+{
+  conflics
+  modified
+}
 void disp()
 {
   printf("disp\n");
